@@ -3,7 +3,6 @@
 Aquest repositori recull materials didàctics que he desenvolupat i utilitzat en **Matemàtiques II (2n de Batxillerat, modalitat Ciències i Tecnologia)** en context de docència presencial (BAT).  
 L’objectiu és oferir **quaderns interactius (Google Colab)** i recursos de suport per treballar conceptes clau del currículum: càlcul diferencial i integral, àlgebra lineal, geometria de l’espai i estadística/probabilitat.
 
-> **Nota**: aquests materials **no són materials oficials de l’IOC**. Són recursos propis, reutilitzables i adaptables a entorns presencials o no presencials.
 
 ---
 
